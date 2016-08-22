@@ -11,6 +11,7 @@ Other versioning systems: SVN, CVS - but these are old and pretty limited in ter
 ---------------
 
 Data Structures
+
 BEST BOOK: https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850 - it walks you through everything that a programmer must know
 
 https://www.coursera.org/learn/data-structures-optimizing-performance - Free if you enroll as audit only, should be enough
