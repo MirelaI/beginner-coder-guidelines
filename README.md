@@ -11,7 +11,7 @@
 
 #Data Structures
 
-##BEST BOOK: 
+One of the best books for programmers:
 - [Cracking the coding interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) it walks you through everything that a programmer must know
 
 ##Courses
@@ -24,12 +24,13 @@
 
 There are two big types of databases: Relational and Non-relational (NoSQL)
 It is not a must to know all of them, just do one of each
+
 ##Relational: 
 
-E.q: MySQL, postgres, Oracle 
-
+E.q: MySQL, postgres, Oracle
 - [SQL](http://www.w3schools.com/sql/default.asp)
 - [Database management](https://www.coursera.org/learn/database-management/home/welcome)
+
 ##NoSQL: 
 - [MongoDB](https://university.mongodb.com/): you can choose a course from the list that suits you 
 - [ElasicSearch](https://www.elastic.co/): You will find it difficult at first, but this is really powerfull and would be usefull to have the basics
