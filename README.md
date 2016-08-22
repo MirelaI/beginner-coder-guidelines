@@ -1,6 +1,6 @@
 #Versioning Systems
 
-##GIT
+##git:
 - [gitimmersion](http://gitimmersion.com/) - at most 4 hours, nice and easy tutorial
 - [github for begginers](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html) - for better github understanding
 - [cloud bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - this will give you free private repos
@@ -14,13 +14,13 @@
 One of the best books for programmers:
 - [Cracking the coding interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) it walks you through everything that a programmer must know
 
-##Courses
+##Courses:
 - [Data structures and optimizing performance](https://www.coursera.org/learn/data-structures-optimizing-performance): Free if you enroll as audit only, should be enough
 - [Algorithmic toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome):  For algorithms learning
 - [Algorithms design](https://www.coursera.org/learn/algorithm-design-analysis/home/welcome): a difficult one, but it gives you a taste of what you will encounter at university
 
 
-#Databases:
+#Databases
 
 There are two big types of databases: Relational and Non-relational (NoSQL)
 It is not a must to know all of them, just do one of each
